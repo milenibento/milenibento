@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👩‍🎓
 
-<!--
-**milenibento/milenibento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mileni Bento 
+-  Formada em Bacharel Ciências Contábeis
+-  Matemática
+-  Cursando Química
+-  Cursando Bacharel Tecnologia da Informação
+-  Atualmente estou como professora de Tecnologia e desempenhando função de Proatec
+-  Utilizo este espaço para compartilhamento dos meus projetos desenvolvidos nos cursos da plataforma [Alura](https://www.alura.com)
+  ### contato através do 📧
+  milenijuliana@prof.educacao.sp.gov.br
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  https://www.linkedin.com/in/mileni-bento-886911211/
+  
+  @milenibento_ccm
+  
+  ![](https://media.tenor.com/gfpuxIwUd8UAAAAM/the-doctor-leo-fitz.gif))
+  
