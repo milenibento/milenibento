@@ -3,9 +3,10 @@
 Meu nome é Mileni Bento 
 -  Formada em Bacharel Ciências Contábeis
 -  Matemática
--  Cursando Química
+-  Química
 -  Cursando Bacharel Tecnologia da Informação
--  Atualmente estou como professora de Tecnologia e desempenhando função de Proatec
+-  Cursando Formação Pedagógica - Pedagogia
+-  Atualmente estou como professora de Tecnologia e desempenhando função de Proati
 -  Utilizo este espaço para compartilhamento dos meus projetos desenvolvidos nos cursos da plataforma [Alura](https://www.alura.com)
   ### contato através do 📧
   milenijuliana@prof.educacao.sp.gov.br
