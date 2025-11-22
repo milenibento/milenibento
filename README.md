@@ -9,7 +9,7 @@ Meu nome é Mileni Bento
 -  Atualmente estou como professora de Tecnologia/ Programação e desempenhando função de Proati
 -  Utilizo este espaço para compartilhamento dos meus projetos desenvolvidos nos cursos da plataforma [Alura](https://www.alura.com)
   ### contato através do 📧
-  milenijuliana@prof.educacao.sp.gov.br
+  mideivca@yahoo.com.br
 
   https://www.linkedin.com/in/mileni-bento-886911211/
   
